@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="D:\koo\works\egov3.9\BoardWeb2-1"/>
+			<item value="D:\koo\works\egov3.9\SpringBootNaverOAuth"/>
+			<item value="D:\koo\works\egov3.9\SpringEhCacheDemo"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class03-1.zip"/>
+			<item value="C:\Users\TJ\Downloads\AOPTest.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class01-1.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class01-2.zip"/>
+			<item value="C:\Users\TJ\Downloads\board2.zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringBootNaverOAuth.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class07-7.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class07-6.zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringBootThymeleafValidation.zip"/>
+			<item value="C:\Users\TJ\Downloads\BoardWeb.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class06.zip"/>
+			<item value="C:\Users\TJ\Downloads\demoJPA.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class04-4-4.zip"/>
+			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class05-1-3.zip"/>
+			<item value="C:\Users\TJ\Downloads\springSecuritySample1.zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringTilesDemo.zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringEhCacheDemo.zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringMediaDemo (1).zip"/>
+			<item value="C:\Users\TJ\Downloads\SpringMediaDemo.zip"/>
+			<item value="C:\Users\TJ\Downloads\springInterceptorDemo.zip"/>
+		</list>
+	</section>
+</section>

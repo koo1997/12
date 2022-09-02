@@ -1,0 +1,14 @@
+127.0.0.1 - - [23/Aug/2022:12:57:39 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:12:57:39 +0900] "GET /SpringMediaDemo/WEB-INF/classes/com/javateam/SpringMediaDemo/controller/JsonFeedController.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:12:57:40 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [23/Aug/2022:13:58:23 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:13:58:25 +0900] "GET /SpringEhCacheDemo/ HTTP/1.1" 200 6400
+127.0.0.1 - - [23/Aug/2022:14:00:33 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:14:00:35 +0900] "GET /SpringTilesDemo/ HTTP/1.1" 200 2258
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:14:00:54 +0900] "GET /SpringTilesDemo/link1.do HTTP/1.1" 200 2271
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:14:00:55 +0900] "GET /SpringTilesDemo/anotherLayout.do HTTP/1.1" 200 2112
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:14:00:57 +0900] "GET /SpringTilesDemo/anotherLayout.do HTTP/1.1" 200 2112
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:14:00:58 +0900] "GET /SpringTilesDemo/ HTTP/1.1" 200 2258
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:16:15:44 +0900] "GET /SpringEhCacheDemo/ HTTP/1.1" 200 6400
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:16:38:54 +0900] "GET /SpringEhCacheDemo/WEB-INF/views/home.jsp HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:16:39:43 +0900] "GET /SpringEhCacheDemo/ HTTP/1.1" 200 6400

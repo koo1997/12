@@ -1,0 +1,9 @@
+127.0.0.1 - - [22/Aug/2022:13:52:23 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:52:24 +0900] "GET /SpringMediaDemo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:52:24 +0900] "GET /SpringMediaDemo/product/a1234.json HTTP/1.1" 200 75
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:52:25 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:54:13 +0900] "GET /SpringMediaDemo/WEB-INF/classes/com/javateam/SpringMediaDemo/config/ExcelView.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:54:20 +0900] "GET /SpringMediaDemo/WEB-INF/classes/com/javateam/SpringMediaDemo/config/ExcelViewResolver.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:55:39 +0900] "GET /SpringMediaDemo/excel/a1234 HTTP/1.1" 200 4096
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:55:45 +0900] "GET /SpringMediaDemo/product/a1234.xml HTTP/1.1" 200 106
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:13:55:52 +0900] "GET /SpringMediaDemo/product/a1234.json HTTP/1.1" 200 75

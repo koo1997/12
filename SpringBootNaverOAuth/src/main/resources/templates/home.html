@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" 
+	  xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+<meta charset="UTF-8">
+<title>Home</title>
+
+<!-- bootstrap -->
+<link rel="stylesheet" th:href="@{'/webjars/bootstrap/4.6.0/css/bootstrap.min.css'}">
+</head>
+<body>
+
+	<!-- 권한 점검 -->
+	<div sec:authorize="isAnonymous()">
+	  - 권한(Role) : Anonymous (로그인 되지 않은 상태, 로그아웃)
+	</div>
+
+	<div sec:authorize="hasRole('ROLE_GUEST')">
+	  - 권한(Role) : ROLE_GUEST
+	</div>
+	
+	<div sec:authorize="hasRole('ROLE_USER')">
+	  - 권한(Role) : ROLE_USER
+	</div>
+	
+	<hr>
+	
+	 <a th:href="@{'/login/oauth2/authorization/naver'}" class="btn btn-secondary active" role="button">Naver Login</a>
+
+</body>
+</html>
