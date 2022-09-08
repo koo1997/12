@@ -1,3 +1,2 @@
 #Tomcat publish data
-#Fri Sep 02 15:09:58 KST 2022
-org.eclipse.jst.jee.server\:/binary\:D\:\\koo\\repository\\maven\\maven_repository_3_9\\org\\springframework\\spring-web\\5.3.22\\spring-web-5.3.22.jar=WEB-INF/lib/spring-web-5.3.22.jar
+#Thu Sep 08 10:00:23 KST 2022

@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\koo\\works\\egov3.9\\test\\.git;D\:\\koo\\works\\egov3.9\\springSecuritySample1\\.git;D\:\\koo\\works\\egov3.9\\SpringMediaDemo\\.git;D\:\\koo\\works\\egov3.9\\SpringTilesDemo\\.git;D\:\\koo\\works\\egov3.9\\BoardWeb1-5\\.git;D\:\\koo\\works\\egov3.9\\SpringMediaDemo1\\.git;D\:\\koo\\works\\egov3.9\\BoardWeb5\\.git;
-GitRepositoriesView.GitDirectories.relative=test\\.git;springSecuritySample1\\.git;SpringMediaDemo\\.git;SpringTilesDemo\\.git;BoardWeb1-5\\.git;SpringMediaDemo1\\.git;BoardWeb5\\.git;
+GitRepositoriesView.GitDirectories=D\:\\koo\\works\\egov3.9\\.git;D\:\\koo\\works\\egov3.9\\springSecuritySample1\\.git;D\:\\koo\\works\\egov3.9\\SpringTilesDemo\\.git;D\:\\koo\\works\\egov3.9\\BoardWeb1-5\\.git;D\:\\koo\\works\\egov3.9\\SpringMediaDemo1\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;springSecuritySample1\\.git;SpringTilesDemo\\.git;BoardWeb1-5\\.git;SpringMediaDemo1\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

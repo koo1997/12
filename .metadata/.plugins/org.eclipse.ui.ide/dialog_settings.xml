@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\TJ\Downloads\localSpringSite-master"/>
+		<item value="C:\Users\TJ\Downloads\genie-book-master.zip"/>
+		<item value="C:\Users\TJ\Downloads\page27clone-main.zip"/>
+		<item value="C:\Users\TJ\Downloads\Spring-boot-Shop-main.zip"/>
+		<item value="C:\Users\TJ\Downloads\DjangoShop-master.zip"/>
+		<item value="C:\Users\TJ\Downloads\AdminLTE-3.2.0.zip"/>
+		<item value="C:\Users\TJ\Downloads\SemiProject-master.zip"/>
+		<item value="C:\Users\TJ\Downloads\Shoppingmall-Prj-master.zip"/>
+	</list>
 	<section name="ExternalProjectImportWizard">
 		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value=""/>
+			<item value="D:\koo\works\egov3.9\SpringTilesDemo"/>
 			<item value="D:\koo\works\egov3.9\BoardWeb2-1"/>
 			<item value="D:\koo\works\egov3.9\SpringBootNaverOAuth"/>
 			<item value="D:\koo\works\egov3.9\SpringEhCacheDemo"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\TJ\Downloads\SpringBootNaverOAuth.zip"/>
+			<item value="C:\Users\TJ\Downloads\springTransactionAnnotation.zip"/>
+			<item value="C:\Users\TJ\Downloads\test-master.zip"/>
 			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class03-1.zip"/>
 			<item value="C:\Users\TJ\Downloads\AOPTest.zip"/>
 			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class01-1.zip"/>
 			<item value="D:\koo\SPRING QUICK START_Source\Day 2\Class01-2.zip"/>
 			<item value="C:\Users\TJ\Downloads\board2.zip"/>
-			<item value="C:\Users\TJ\Downloads\SpringBootNaverOAuth.zip"/>
 			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class07-7.zip"/>
 			<item value="D:\koo\SPRING QUICK START_Source\Day 1\Class07-6.zip"/>
 			<item value="C:\Users\TJ\Downloads\SpringBootThymeleafValidation.zip"/>
@@ -29,8 +42,14 @@
 			<item value="C:\Users\TJ\Downloads\SpringTilesDemo.zip"/>
 			<item value="C:\Users\TJ\Downloads\SpringEhCacheDemo.zip"/>
 			<item value="C:\Users\TJ\Downloads\SpringMediaDemo (1).zip"/>
-			<item value="C:\Users\TJ\Downloads\SpringMediaDemo.zip"/>
-			<item value="C:\Users\TJ\Downloads\springInterceptorDemo.zip"/>
 		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="660" key="DIALOG_X_ORIGIN"/>
+		<item value="341" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
